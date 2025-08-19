@@ -1,0 +1,30 @@
+Libro {idLibro = 101, nombreLibro = "La sombra del viento", autorLibro = "Carlos Ruiz Zafon", prestado = True, fechaInicialPrestamo = Just 2025-08-18 23:47:02.2558477 UTC, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 102, nombreLibro = "Cien a\9500\9618os de soledad", autorLibro = "Gabriel Garcia Marquez", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 103, nombreLibro = "El nombre del viento", autorLibro = "Patrick Rothfuss", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 104, nombreLibro = "El juego de Ender", autorLibro = "Orson Scott Card", prestado = False, fechaInicialPrestamo = Just 2025-08-18 23:21:13.065523 UTC, fechaFinalPrestamo = Just 2025-08-18 23:22:05.8172349 UTC}
+Libro {idLibro = 105, nombreLibro = "Ficciones", autorLibro = "Jorge Luis Borges", prestado = False, fechaInicialPrestamo = Just 2025-08-17 03:28:03.6856204 UTC, fechaFinalPrestamo = Just 2025-08-17 03:28:19.5446756 UTC}
+Libro {idLibro = 106, nombreLibro = "Rayuela", autorLibro = "Julio Cortazar", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 107, nombreLibro = "El Aleph", autorLibro = "Jorge Luis Borges", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 108, nombreLibro = "La ciudad y los perros", autorLibro = "Mario Vargas Llosa", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 109, nombreLibro = "Neuromante", autorLibro = "William Gibson", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 110, nombreLibro = "Cronica de una muerte anunciada", autorLibro = "Gabriel Garcia Marquez", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 111, nombreLibro = "El se\9500\9618or de los anillos", autorLibro = "J.R.R. Tolkien", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 112, nombreLibro = "1984", autorLibro = "George Orwell", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 113, nombreLibro = "Rebelion en la granja", autorLibro = "George Orwell", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 114, nombreLibro = "El Principito", autorLibro = "Antoine de Saint-Exupery", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 115, nombreLibro = "Don Quijote de la Mancha", autorLibro = "Miguel de Cervantes", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 116, nombreLibro = "La Odisea", autorLibro = "Homero", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 117, nombreLibro = "La Iliada", autorLibro = "Homero", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 118, nombreLibro = "El retrato de Dorian Gray", autorLibro = "Oscar Wilde", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 119, nombreLibro = "El extrano caso del Dr. Jekyll y Mr. Hyde", autorLibro = "Robert Louis Stevenson", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 120, nombreLibro = "El Codigo Da Vinci", autorLibro = "Dan Brown", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 121, nombreLibro = "La casa de los espiritus", autorLibro = "Isabel Allende", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 122, nombreLibro = "El alquimista", autorLibro = "Paulo Coelho", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 123, nombreLibro = "Sapiens", autorLibro = "Yuval Noah Harari", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 124, nombreLibro = "El hombre en busca de sentido", autorLibro = "Viktor E. Frankl", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 125, nombreLibro = "El arte de la guerra", autorLibro = "Sun Tzu", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 126, nombreLibro = "El psicoanalista", autorLibro = "John Katzenbach", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 127, nombreLibro = "La chica del tren", autorLibro = "Paula Hawkins", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 128, nombreLibro = "El silencio de los corderos", autorLibro = "Thomas Harris", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 129, nombreLibro = "Los juegos del hambre", autorLibro = "Suzanne Collins", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
+Libro {idLibro = 130, nombreLibro = "El hobbit", autorLibro = "J.R.R. Tolkien", prestado = False, fechaInicialPrestamo = Nothing, fechaFinalPrestamo = Nothing}
